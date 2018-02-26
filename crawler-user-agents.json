@@ -37,6 +37,14 @@
     ]
   },
   {
+    "pattern": "Google Page Speed Insights",
+    "addition_date": "2018/02/26",
+    "url": "https://developers.google.com/speed/pagespeed/insights/",
+    "instances": [
+      "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Page Speed Insights) Chrome/41.0.2272.118 Safari/537.36"
+    ]
+  },
+  {
     "pattern": "Googlebot-Video",
     "instances": [
       "Googlebot-Video/1.0"
@@ -2107,7 +2115,7 @@
     "addition_date": "2017/09/22",
     "instances": [
       "Fyrebot/1.0"
-  ]
+    ]
   },
   {
     "pattern": "EveryoneSocialBot",
